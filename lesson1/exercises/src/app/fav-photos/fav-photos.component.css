@@ -9,3 +9,7 @@ img {
 .photos {
    text-align: center;
 }
+img {
+   width: 25%;
+   height: auto;
+}
