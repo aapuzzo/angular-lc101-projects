@@ -16,3 +16,8 @@ img {
     display: block;
     margin: auto;
 }
+
+.iceCreamTreat {
+    text-align: center;
+    color: green;
+}
